@@ -1,6 +1,6 @@
 <?php
 // Fonction pour trouver la valeur minimale d'un tableau
-// TODO: Corriger l'erreur dans la fonction
+// TODO: Corriger l'erreur dans la fonctio
 function trouver_min($tableau) {
     $min = $tableau[0];
 
